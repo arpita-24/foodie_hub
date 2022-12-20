@@ -1,7 +1,7 @@
 :root{
     --red:hsl(327, 100%, 50%);
 }
-
+ 
 *{
     font-family:Georgia, 'Times New Roman', Times, serif;
     margin: 0;
